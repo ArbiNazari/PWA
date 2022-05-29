@@ -32,6 +32,23 @@ accurate when I am traveling.
  - THEN the deposits or expenses added while they were offline are added to their 
    transaction history and their totals are updated.
 
+  # Web Manifest
+    
+    Manifest.json file for this project will contain the following properties:
+
+    - name
+
+    - short_name
+
+    - icons
+
+    - theme_color
+
+    - background_color
+
+    - start_url
+
+    - display
 
 
   ## [License](#table-of-contents)
