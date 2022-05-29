@@ -1,0 +1,19 @@
+{
+  "name": "pwa",
+  "version": "1.0.0",
+  "description": "Progressive Web Applications ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArbiNazari/PWA.git"
+  },
+  "author": "Arbi Nazari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArbiNazari/PWA/issues"
+  },
+  "homepage": "https://github.com/ArbiNazari/PWA#readme"
+}
