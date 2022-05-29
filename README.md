@@ -65,5 +65,4 @@ accurate when I am traveling.
   Contact Information Below:
   [GitHub](https://github.com/arbinazari)
 
-  [Email: arbinazari@hotmail.com](mailto:arbinazari@hotmail.com)
-
+  [Email: arbinazari@hotmail.com](mailto:arbinazari@hotmail.com).
