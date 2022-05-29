@@ -53,8 +53,8 @@ accurate when I am traveling.
   ## [Live](#table-of-contents)
 
     - Heroku:
-    - Github: https://github.com/ArbiNazari/PWA
-    
+    - Github: (https://github.com/ArbiNazari/PWA)
+
   ## [License](#table-of-contents)
   The application is covered under the following license:
   
