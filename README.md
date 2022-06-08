@@ -19,7 +19,6 @@ As an avid traveler, I want to be able to track my withdrawals and deposits with
 or without a data/internet connection so that my account balance is 
 accurate when I am traveling.
 
-
  # My Task and Application Requirments
 
  - GIVEN a budget tracker without an internet connection when the user inputs 
