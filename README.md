@@ -56,7 +56,7 @@ accurate when I am traveling.
     - Heroku: (https://fast-ridge-14510.herokuapp.com/)
     - Github: (https://github.com/ArbiNazari/PWA)
     
-    ![1](https://user-images.githubusercontent.com/95839411/172513650-7dc0fb76-96c3-402e-9dc6-50e53b274afd.jpg)
+  ![1](https://user-images.githubusercontent.com/95839411/172513650-7dc0fb76-96c3-402e-9dc6-50e53b274afd.jpg)
 
 
   ## [License](#table-of-contents)
