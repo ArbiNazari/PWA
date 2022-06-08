@@ -23,7 +23,7 @@ body {
   }
   
   .error {
-    color: red;
+    color: rgba(255, 0, 0, 0.886);
   }
   
   .wrapper {
