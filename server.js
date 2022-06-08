@@ -5,7 +5,7 @@ const mongoose = require("mongoose");
 const compression = require("compression");
 const apiRoutes = require("./routes/api.js");
 
-const PORT = process.env.PORT || 3025;
+const PORT = process.env.PORT || 3065;
 
 const app = express();
 
