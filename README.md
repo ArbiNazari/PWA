@@ -5,7 +5,11 @@
 
   ## Table-of-Contents
   * [Description and Task](#description)
+<<<<<<< HEAD
+  * [Live Url and Mockups](#live)   
+=======
   * [Live Url](#live)   
+>>>>>>> 904b592c5e2183bc4c732ab3b8f035cbe7ac2f9b
   * [License](#license)   
   * [Contributing](#contributing)
   * [Questions](#questions)
@@ -18,6 +22,7 @@ Application Design and Function
 As an avid traveler, I want to be able to track my withdrawals and deposits with 
 or without a data/internet connection so that my account balance is 
 accurate when I am traveling.
+
 
  # My Task and Application Requirments
 
@@ -50,13 +55,15 @@ accurate when I am traveling.
     - display
 
   ## [Live](#table-of-contents)
+<<<<<<< HEAD
+   
+    # Heroku:
+    # Github: 
+=======
 
-Heroku: [Live Url] (https://fast-ridge-14510.herokuapp.com/)
-Github: (https://github.com/ArbiNazari/PWA)
- 
-![1](https://user-images.githubusercontent.com/95839411/172506347-cc4051a6-cb70-4018-a3d3-adb61e949834.jpg)
-
-    
+    - Heroku:
+    - Github: (https://github.com/ArbiNazari/PWA)
+>>>>>>> 904b592c5e2183bc4c732ab3b8f035cbe7ac2f9b
 
   ## [License](#table-of-contents)
   The application is covered under the following license:
@@ -72,4 +79,11 @@ Github: (https://github.com/ArbiNazari/PWA)
   Contact Information Below:
   [GitHub](https://github.com/arbinazari)
 
+<<<<<<< HEAD
+  [Email: arbinazari@hotmail.com](mailto:arbinazari@hotmail.com)
+
+
+  
+=======
   [Email: arbinazari@hotmail.com](mailto:arbinazari@hotmail.com).
+>>>>>>> 904b592c5e2183bc4c732ab3b8f035cbe7ac2f9b
