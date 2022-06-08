@@ -5,11 +5,8 @@
 
   ## Table-of-Contents
   * [Description and Task](#description)
-<<<<<<< HEAD
   * [Live Url and Mockups](#live)   
-=======
   * [Live Url](#live)   
->>>>>>> 904b592c5e2183bc4c732ab3b8f035cbe7ac2f9b
   * [License](#license)   
   * [Contributing](#contributing)
   * [Questions](#questions)
@@ -55,15 +52,11 @@ accurate when I am traveling.
     - display
 
   ## [Live](#table-of-contents)
-<<<<<<< HEAD
-   
-    # Heroku:
-    # Github: 
-=======
 
-    - Heroku:
+
+    - Heroku: (https://fast-ridge-14510.herokuapp.com/)
     - Github: (https://github.com/ArbiNazari/PWA)
->>>>>>> 904b592c5e2183bc4c732ab3b8f035cbe7ac2f9b
+
 
   ## [License](#table-of-contents)
   The application is covered under the following license:
@@ -76,14 +69,10 @@ accurate when I am traveling.
     Feel free to contact me if there are any issues or ideas to implement.
     
   ## [Questions](#table-of-contents)
+  
   Contact Information Below:
+  
   [GitHub](https://github.com/arbinazari)
 
-<<<<<<< HEAD
   [Email: arbinazari@hotmail.com](mailto:arbinazari@hotmail.com)
 
-
-  
-=======
-  [Email: arbinazari@hotmail.com](mailto:arbinazari@hotmail.com).
->>>>>>> 904b592c5e2183bc4c732ab3b8f035cbe7ac2f9b
