@@ -54,8 +54,8 @@ accurate when I am traveling.
   ## [Live](#table-of-contents)
 
 
-    - Heroku: (https://fast-ridge-14510.herokuapp.com/)
-    - Github: (https://github.com/ArbiNazari/PWA)
+ Heroku: (https://fast-ridge-14510.herokuapp.com/)
+ Github: (https://github.com/ArbiNazari/PWA)
 
 
   ## [License](#table-of-contents)
